@@ -5,6 +5,15 @@
 
         docker-compose up -d
 
+3. Install dependencies (I think)
+
+        cd ramble-app-1.2.1
+
+        npm install
+
+Also
+        npm install --global gulp-cli
+
 ## Contributing
 
         * Pull the latest.
